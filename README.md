@@ -8,39 +8,35 @@ Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-p
 
 ## Antes de crear una nueva 'issue'
 
-* **Este sitio es sólamente para issues de ordendecompra.cl.**
+* **Este sitio es sólamente para issues de ordendecompra.cl en el navegador Google Chrome.**
+
+No se garantiza el servicio de ordendecompra.cl con otro navegador.
 
 * Busque la issue [aquí](https://github.com/ordendecompra/orden-de-compra/search?q=&type=Issues) para verificar si ya fue reportada. Puede usar etiquetas para filtrar la [lista de issues](https://github.com/ordendecompra/orden-de-compra/issues) al hacer click en cualquiera de las relacionadas con el problema que quiere reportar o buscar.
 
-## Filing a bug
+## Reportar un bug o error
 
-1.  Start with a descriptive but concise **subject** that quickly and uniquely identifies the problem.
-*   Write a **summary** of the problem in a few lines, giving an idea of what the issue is about.
-*   Then, **describe** the bug with all the information you can give.
-    Be sure to include the following information:
-    * Operating System
-    * The version of Sublime Text that you're using
-    * Any related software which may cause ST to act strangely
-    * If relevant, does the bug occur with no packages installed / [with ST3 in a reverted/clean state](https://www.sublimetext.com/docs/3/revert.html)?
+1.  Comience por un descriptivo pero conciso **asunto** que individualice rápidamente el problema.
+*   Escriba un **resumen** del problema en unas pocas líneas, dando una idea de qué se trata.
+*   Luego, **describa** el bug con toda la información que pueda entregar.
+    Asegúrese de incluír la siguiente información:
+    * Sistema Operativo
+    * Dispositivo usado
+    * Versión del Navegador Utilizado
 
-    Also keep in mind to clearly separate fact from speculation.
-*   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a *code example* for this.
-*   Workarounds or other related tips on how to avoid the issue are welcome.
+    Además, para separar claramente los hechos de percepciones
 
-We won't slaughter you if you can't fulfill all of these steps, but prepare to answer a few questions if we think we're lacking information.
+*   Trate de encontrar una manera de **reproducir** el problema y anotar los pasos precisos.
+*   Tips o trampas utilizados para evitar el problema son bienvenidos.
 
-If you want to be really good at reporting bugs, you can also read [these guidelines](https://landfill.bugzilla.org/bugzilla-5.0-branch/page.cgi?id=bug-writing.html) for bugzilla bugs.
+No hay problema si no puede cumplir los pasos previos, pero puede que le solicitemos más información.
 
-## Filing an enhancement or a feature request
+## Solicitar mejoras (enhancements) o una nueva función (feature request)
 
-1.  Start with a descriptive but concise **subject** that quickly and uniquely identifies the issue.
-*   Explain briefly what the enhancement is and why you think it would be useful.
-*   Provide any other necessary or useful information regarding your issue, such as (code) examples or related links.
+1.  Comience por un descriptivo pero conciso **asunto** que individualice rápidamente el problema.
+*   Explique brevemente cuál es la mejora y por qué sería útil.
+*   Entregue cualquier otra información necesaria.
 
-Note: "enhancements" are modifications to existing behavior as opposed to something entirely new.
+Nota: mejora o 'enhancements' son modificaciones a funcionamiento existente, a diferencia de algo completamente nuevo (feature request).
 
 ---
-
-This is a bug tracker run by the community. For the initial idea, read this forum thread: http://web.archive.org/web/20150524043750/https://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
-
-If you would like to help maintain this issue list, head over to [this issue](https://github.com/sublimehq/sublime_text/issues/614).
