@@ -24,14 +24,14 @@ Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-p
     * Dispositivo usado
     * Versión del Navegador Utilizado
 
-    Además, para separar claramente los hechos de excepciones
+2.  Para separar claramente los errores de las excepciones
 
 *   Trate de encontrar una manera de **reproducir** el problema y anotar los pasos precisos.
 *   Tips o trampas utilizados para evitar el problema son bienvenidos.
 
 No hay problema si no puede cumplir los pasos previos, pero puede que le solicitemos más información.
 
-## Solicitar mejoras (enhancements) o una nueva función (feature request)
+## Solicitar mejora (enhancement) o una nueva función (feature request)
 
 1.  Comience por un descriptivo pero conciso **asunto** que individualice rápidamente el problema.
 *   Explique brevemente cuál es la mejora y por qué sería útil.
