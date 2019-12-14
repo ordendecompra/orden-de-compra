@@ -1,6 +1,6 @@
 # ordendecompra.cl Bug and Issue Tracker
 
-## El listado de 'Issues' o problemas
+## Listado de 'Issues' o problemas
 
 Acceda directo a https://github.com/ordendecompra/orden-de-compra/issues para una lista de todas las 'issues' o haga click en 'Issues' en la barra de navegación.
 
