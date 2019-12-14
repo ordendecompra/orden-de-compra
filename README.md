@@ -37,6 +37,6 @@ No hay problema si no puede cumplir los pasos previos, pero puede que le solicit
 *   Explique brevemente cuál es la mejora y por qué sería útil.
 *   Entregue cualquier otra información necesaria.
 
-Nota: mejora o 'enhancements' son modificaciones a funcionamiento existente, a diferencia de algo completamente nuevo (feature request).
+Nota: mejora o 'enhancement' es una modificación a funcionamiento existente, a diferencia de algo completamente nuevo (feature request).
 
 ---
