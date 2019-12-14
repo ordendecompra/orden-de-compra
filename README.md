@@ -10,7 +10,7 @@ Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-p
 
 * **Este sitio es sólamente para issues de ordendecompra.cl en el navegador Google Chrome.**
 
-No se garantiza el servicio de ordendecompra.cl con otro navegador.
+    No se garantiza el servicio de ordendecompra.cl con otro navegador.
 
 * Busque la issue [aquí](https://github.com/ordendecompra/orden-de-compra/search?q=&type=Issues) para verificar si ya fue reportada. Puede usar etiquetas para filtrar la [lista de issues](https://github.com/ordendecompra/orden-de-compra/issues) al hacer click en cualquiera de las relacionadas con el problema que quiere reportar o buscar.
 
@@ -24,7 +24,7 @@ No se garantiza el servicio de ordendecompra.cl con otro navegador.
     * Dispositivo usado
     * Versión del Navegador Utilizado
 
-    Además, para separar claramente los hechos de percepciones
+    Además, para separar claramente los hechos de excepciones
 
 *   Trate de encontrar una manera de **reproducir** el problema y anotar los pasos precisos.
 *   Tips o trampas utilizados para evitar el problema son bienvenidos.
